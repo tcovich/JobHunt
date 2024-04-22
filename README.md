@@ -1,6 +1,6 @@
 # JobHunt
-Conducting data analysis on my personal job hunt.
+<i> Conducting data analysis on my personal job hunt. </i>
 <br> <br>
-Data - raw data collected from applications submitted on my behalf (no personal or company data besides company name included).
+<b> Data </b> - raw data collected from applications submitted on my behalf (no personal or company data besides company name included).
 <br> <br>
-Analysis - jupyter notebooks in python.
+<b> Analysis </b> - jupyter notebooks in python.
